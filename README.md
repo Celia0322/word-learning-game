@@ -52,7 +52,7 @@ Docker will be used to ensure reproductible behaviors between development and pr
 
 A mock of a graphical interface has been protyped to what the final product should looks like.
 
-![prototype UI](./assets/protoypeUI.png)
+![prototype UI](./assets/prototypeUI.png)
 
 ### Possible enhancements
 
